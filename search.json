@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Frontier AI Risk Governance Lab",
+    "section": "",
+    "text": "INDEPENDENT POLICY CONCEPT · NOVEMBER 2026"
+  },
+  {
+    "objectID": "index.html#case-study",
+    "href": "index.html#case-study",
+    "title": "Frontier AI Risk Governance Lab",
+    "section": "Policy case: Evaluating dangerous cyber capabilities",
+    "text": "Policy case: Evaluating dangerous cyber capabilities\n\nHypothetical illustration, not a real model assessment. Consider a frontier model whose developer reports that it passed internal safety evaluations relating to potentially dangerous cyber capabilities. How useful is that statement to an authority considering systemic risks?\n\n\n\n\nILLUSTRATIVE CLAIM\n\n\n“Our frontier AI model passed its safety evaluations.”\n\n\nWhat would an EU decision-maker need to know before relying on that claim?\n\n\n\n\n01 · EVIDENCE What was actually tested? Which cyber-related capabilities were evaluated? Were tests adversarial and independently scrutinized? What tasks, access, safeguards, and model versions were covered? What failures or limits were disclosed? “Passed” is not meaningful without a documented scope and criteria.\n\n\n02 · INFERENCE What can we conclude? How closely do test conditions resemble plausible misuse or deployment scenarios? Could access to tools, user adaptation, or later model changes alter the risk? Which uncertainties remain? Capability findings do not directly quantify real-world likelihood or harm.\n\n\n03 · POLICY What action is justified? Depending on the evidence, should the relevant authority seek further documentation, examine mitigation measures, request additional evaluation, or consider other oversight steps within its legal powers? Responses should reflect risk, uncertainty, proportionality, and legal authority.\n\n\n\n\nWhy this matters in Europe:\n\nThe EU AI Act, Article 55, already requires providers of general-purpose AI models with systemic risk to evaluate their models, assess and mitigate risks, report serious incidents, and ensure appropriate cybersecurity protection.\n\nBut an important question remains: How can evidence from AI safety evaluations better support the implementation and supervision of these requirements?\nPotential policy output:\n\nA short policy brief examining what current safety evaluations reveal, what information may be missing, and how European policymakers could use this evidence to improve oversight."
+  },
+  {
+    "objectID": "index.html#questions",
+    "href": "index.html#questions",
+    "title": "Frontier AI Risk Governance Lab",
+    "section": "A framework for policy-relevant evidence",
+    "text": "A framework for policy-relevant evidence\n\nThree questions connect AI safety evidence to accountable European governance. The framework is deliberately decision-oriented rather than a comprehensive technical evaluation methodology.\n\n\n\n\n01EVIDENCE QUALITY\n\n\nCan we assess the evaluation claim?\n\n\nExamine test scope, methods, provenance, independence, disclosed limitations, and whether a claim is supported by the underlying evidence.\n\n\nScope · Transparency · Independence · Reproducibility\n\n\n\n↓\n\n\n\n02RISK INTERPRETATION\n\n\nWhat does the result imply about risk?\n\n\nDistinguish measured capabilities from misuse scenarios and broader systemic risk. Consider external validity, uncertainty, protective measures, and missing information.\n\n\nCapability vs. risk · Generalizability · Uncertainty\n\n\n\n↓\n\n\n\n03POLICY RESPONSE\n\n\nWhat should authorities consider doing?\n\n\nIdentify feasible reporting improvements, review questions, and possible follow-up measures, distinguishing existing legal requirements from new policy proposals.\n\n\nInstitutional authority · Proportionality · Accountability"
+  },
+  {
+    "objectID": "index.html#workflow",
+    "href": "index.html#workflow",
+    "title": "Frontier AI Risk Governance Lab",
+    "section": "Proposed approach",
+    "text": "Proposed approach\n\nA bounded desk-based policy project using public sources. Any empirical comparison would depend on available, sufficiently comparable material.\n\n\n\n\nSTEP 01\n\n\nMap existing duties\n\n\nSummarize relevant EU requirements and guidance for general-purpose AI models with systemic risk, focusing on evaluation, risk management, and oversight.\n\n\n\n\nSTEP 02\n\n\nReview public evidence\n\n\nCompare a small, clearly selected set of public safety evaluation documents. Record what is reported, what remains unknown, and which claims can be supported.\n\n\n\n\nSTEP 03\n\n\nDevelop policy options\n\n\nIdentify practical improvements to decision-relevant reporting or scrutiny; distinguish feasible proposals from legal duties and note trade-offs.\n\n\n\n\n\n↗\n\n\nScope and research integrity\nThis is a proposed policy exercise. No model testing, independent audit, interviews, original data collection, or empirical validation has been completed. A cyber-capability test does not by itself establish the probability of harm. Examples are hypothetical; recommendations would require source review and attention to confidentiality, legal powers, and institutional feasibility."
+  },
+  {
+    "objectID": "index.html#output",
+    "href": "index.html#output",
+    "title": "Frontier AI Risk Governance Lab",
+    "section": "Potential Policy Contribution: a European policy brief",
+    "text": "Potential Policy Contribution: a European policy brief\n\n\nPROPOSED DELIVERABLE\n\n\nWorking title: Making Frontier AI Safety Evaluations Decision-Useful for European Policymakers\nA concise policy brief would examine how public reporting on frontier AI evaluations can better support oversight of models with potential systemic risks. It would explain a specific evidence-to-decision gap, assess relevant European institutional and legal context, and propose a limited number of actionable improvements-with trade-offs and uncertainties made explicit.\nA small evidence matrix could support the brief by tracing each documented claim to its source, limitations, and policy relevance. The brief - not a software platform or a completed research study - would be the principal proposed output."
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Frontier AI Risk Governance Lab",
+    "section": "Starting references",
+    "text": "Starting references\n\nEU AI Act - Article 55: additional obligations for GPAI models with systemic risk\nEuropean Commission - When is a general-purpose AI model one with systemic risk?\nEU AI Act - consolidated legal text (EUR-Lex)\nTalos Network - Talos Fellowship (programme context; no institutional association)\n\nThese are starting points, not a claim of exhaustive legal or empirical review."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Frontier AI Risk Governance Lab",
+    "section": "About me",
+    "text": "About me\n\n\n\nCV\n\n\n\nCaio Velasco · Data Science · Economics & Public Policy\nI am a Brazilian and Spanish citizen, trained in mechanical engineering at UFRJ and public policy at UCLA, with international experience in data science, applied econometrics, and machine learning. My work has involved evaluating quantitative evidence and communicating technical findings to non-technical stakeholders.\nMy policy interest: applying this evidence-based perspective to frontier AI safety and European governance, particularly how institutions interpret technical findings and make accountable decisions under uncertainty. This concept reflects my exploration of a long-term transition into AI policy work.\n\n\n\nBACKGROUND & LINKS\n\nLinkedIn ↗\n\nQuantitative Analysis · Public Policy · European AI Governance\n\n\n\n\nIndependent, exploratory policy concept by Caio Velasco. Not a functioning assessment tool, completed study, legal opinion, or official evaluation. Not affiliated with, endorsed by, or submitted on behalf of Talos Network, the EU AI Office, or any other institution. Proposed methods and outputs remain subject to refinement.\n© 2026 Caio Velasco."
+  }
+]
