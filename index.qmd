@@ -177,14 +177,16 @@ These are starting points, not a claim of exhaustive legal or empirical review.
 
 ::: {.about-panel}
 ::: {.about-portrait}
-<div class="about-photo-placeholder" aria-label="Caio Velasco profile placeholder">CV</div>
+<img src="images/caio_ucla.JPG" alt="Portrait of Caio Velasco" class="about-photo">
 :::
 ::: {.about-main}
 **[Caio Velasco](https://caiocvelasco.github.io/)** · Data Science · Economics & Public Policy
 
-I am a Brazilian and Spanish citizen, trained in mechanical engineering at UFRJ and public policy at UCLA, with international experience in data science, applied econometrics, and machine learning. My work has involved evaluating quantitative evidence and communicating technical findings to non-technical stakeholders.
+I am a Brazilian and Spanish citizen with a degree in Mechanical Engineering from UFRJ and a Master of Public Policy from UCLA (Lemann Foundation scholar). I have international experience in data science, applied econometrics, and machine learning, combining quantitative analysis with communicating technical findings to non-technical audiences.
 
-**My policy interest:** applying this evidence-based perspective to **frontier AI safety and European governance**, particularly how institutions interpret technical findings and make accountable decisions under uncertainty. This concept reflects my exploration of a long-term transition into AI policy work.
+My academic and professional journey has included scholarships, awards, and opportunities associated with **UCLA, the Lemann Foundation, the General Electric Foundation, Yale University, and the Club of Rome**.
+
+**My policy interest:** Applying my technical and public policy background to **frontier AI safety and European governance**, particularly how institutions evaluate evidence and make decisions under uncertainty. This project reflects my interest in pursuing a long-term career in AI policy.
 :::
 ::: {.about-aside}
 <div class="about-small-heading">BACKGROUND & LINKS</div>
