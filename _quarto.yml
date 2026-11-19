@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Frontier AI Risk Governance Lab | Policy Concept"
+  navbar: false
+  page-footer:
+    center: "Independent policy concept by Caio Velasco · No institutional affiliation or endorsement implied"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 1080px
+
+execute:
+  freeze: auto

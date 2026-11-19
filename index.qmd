@@ -1,0 +1,200 @@
+---
+title: "Frontier AI Risk Governance Lab"
+subtitle: "From safety evaluations to European policy decisions"
+---
+
+::: {.eyebrow}
+INDEPENDENT POLICY CONCEPT · NOVEMBER 2026
+:::
+
+::: {.hero}
+::: {.hero-content}
+<span class="hero-kicker">FRONTIER AI RISK GOVERNANCE · POLICY CONCEPT</span>
+
+# From Safety Evaluations to Policy Action
+
+**How should European policymakers use frontier AI safety evaluations when deciding whether additional oversight or safeguards are warranted?**
+
+Safety evaluations can reveal dangerous AI capabilities, but they **do not tell us everything about real-world risks**. This project explores how policymakers can interpret these results, understand their limitations, and use them to make better decisions.
+
+<div class="hero-links">
+<a class="button-main" href="#case-study">Explore the policy example <span aria-hidden="true">↘</span></a>
+<a class="text-link" href="#questions">Explore the framework <span aria-hidden="true">↗</span></a>
+</div>
+:::
+::: {.hero-decoration aria-hidden="true"}
+<div class="orbit orbit-one"></div>
+<div class="orbit orbit-two"></div>
+<div class="orbit orbit-three"></div>
+<div class="orbit-core">?</div>
+:::
+:::
+
+::: {.intro-grid}
+::: {.intro-label}
+### THE POLICY PROBLEM
+:::
+::: {.intro-copy}
+_An evaluation result is evidence about a model under specified conditions - not a guarantee of safety in deployment._
+
+Public policy needs a defensible way to move from **what was tested**, to **what the evidence supports**, to **what an authority might do next**. The proposed contribution is a concise policy analysis of that translation, not a new benchmark, certification system, or claim that existing EU rules lack evaluation requirements.
+:::
+:::
+
+## Policy case: Evaluating dangerous cyber capabilities {#case-study}
+
+::: {.section-subtitle}
+**Hypothetical illustration, not a real model assessment.** Consider a frontier model whose developer reports that it passed internal safety evaluations relating to potentially dangerous cyber capabilities. How useful is that statement to an authority considering systemic risks?
+:::
+
+::: {.platform-panel}
+<div class="platform-head">
+  <div class="platform-eyebrow">ILLUSTRATIVE CLAIM</div>
+  <h3>“Our frontier AI model passed its safety evaluations.”</h3>
+  <p>What would an EU decision-maker need to know before relying on that claim?</p>
+</div>
+<div class="platform-branches" aria-label="Three stages of interpreting frontier AI safety evidence">
+  <div class="platform-branch">
+<span class="branch-number">01 · EVIDENCE</span>
+<strong>What was actually tested?</strong>
+<span>Which cyber-related capabilities were evaluated? Were tests adversarial and independently scrutinized? What tasks, access, safeguards, and model versions were covered? What failures or limits were disclosed?</span>
+<em>“Passed” is not meaningful without a documented scope and criteria.</em>
+  </div>
+  <div class="platform-branch">
+<span class="branch-number">02 · INFERENCE</span>
+<strong>What can we conclude?</strong>
+<span>How closely do test conditions resemble plausible misuse or deployment scenarios? Could access to tools, user adaptation, or later model changes alter the risk? Which uncertainties remain?</span>
+<em>Capability findings do not directly quantify real-world likelihood or harm.</em>
+  </div>
+  <div class="platform-branch">
+<span class="branch-number">03 · POLICY</span>
+<strong>What action is justified?</strong>
+<span>Depending on the evidence, should the relevant authority seek further documentation, examine mitigation measures, request additional evaluation, or consider other oversight steps within its legal powers?</span>
+<em>Responses should reflect risk, uncertainty, proportionality, and legal authority.</em>
+  </div>
+</div>
+:::
+
+<br>
+
+**Why this matters in Europe:** 
+
+- The [EU AI Act, Article 55](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-55), already requires providers of general-purpose AI models with systemic risk to evaluate their models, assess and mitigate risks, report serious incidents, and ensure appropriate cybersecurity protection.
+
+But an important question remains: **How can evidence from AI safety evaluations better support the implementation and supervision of these requirements?**
+
+**Potential policy output:**
+
+- A short policy brief examining what current safety evaluations reveal, what information may be missing, and how European policymakers could use this evidence to improve oversight.
+
+## A framework for policy-relevant evidence {#questions}
+
+::: {.section-subtitle}
+Three questions connect AI safety evidence to accountable European governance. The framework is deliberately decision-oriented rather than a comprehensive technical evaluation methodology.
+:::
+
+::: {.workflow aria-label="Three questions for policy-relevant safety evidence"}
+::: {.step}
+<div class="step-top"><span class="step-number">01</span><span class="step-tag">EVIDENCE QUALITY</span></div>
+<h3>Can we assess the evaluation claim?</h3>
+<p>Examine test scope, methods, provenance, independence, disclosed limitations, and whether a claim is supported by the underlying evidence.</p>
+<div class="step-prompt">Scope · Transparency · Independence · Reproducibility</div>
+:::
+<div class="connector" aria-hidden="true">↓</div>
+::: {.step}
+<div class="step-top"><span class="step-number">02</span><span class="step-tag">RISK INTERPRETATION</span></div>
+<h3>What does the result imply about risk?</h3>
+<p>Distinguish measured capabilities from misuse scenarios and broader systemic risk. Consider external validity, uncertainty, protective measures, and missing information.</p>
+<div class="step-prompt">Capability vs. risk · Generalizability · Uncertainty</div>
+:::
+<div class="connector" aria-hidden="true">↓</div>
+::: {.step .step-final}
+<div class="step-top"><span class="step-number">03</span><span class="step-tag">POLICY RESPONSE</span></div>
+<h3>What should authorities consider doing?</h3>
+<p>Identify feasible reporting improvements, review questions, and possible follow-up measures, distinguishing existing legal requirements from new policy proposals.</p>
+<div class="step-prompt">Institutional authority · Proportionality · Accountability</div>
+:::
+:::
+
+## Proposed approach {#workflow}
+
+::: {.section-subtitle}
+A bounded desk-based policy project using public sources. Any empirical comparison would depend on available, sufficiently comparable material.
+:::
+
+::: {.output-grid}
+::: {.output-card}
+<div class="output-index">STEP 01</div>
+<h3>Map existing duties</h3>
+<p>Summarize relevant EU requirements and guidance for general-purpose AI models with systemic risk, focusing on evaluation, risk management, and oversight.</p>
+:::
+::: {.output-card}
+<div class="output-index">STEP 02</div>
+<h3>Review public evidence</h3>
+<p>Compare a small, clearly selected set of public safety evaluation documents. Record what is reported, what remains unknown, and which claims can be supported.</p>
+:::
+::: {.output-card}
+<div class="output-index">STEP 03</div>
+<h3>Develop policy options</h3>
+<p>Identify practical improvements to decision-relevant reporting or scrutiny; distinguish feasible proposals from legal duties and note trade-offs.</p>
+:::
+:::
+
+::: {.integrity-note}
+<div class="note-symbol" aria-hidden="true">↗</div>
+<div>
+<strong>Scope and research integrity</strong>
+
+This is a proposed policy exercise. No model testing, independent audit, interviews, original data collection, or empirical validation has been completed. A cyber-capability test does not by itself establish the probability of harm. Examples are hypothetical; recommendations would require source review and attention to confidentiality, legal powers, and institutional feasibility.
+</div>
+:::
+
+## Potential Policy Contribution: a European policy brief {#output}
+
+::: {.intro-grid}
+::: {.intro-label}
+### PROPOSED DELIVERABLE
+:::
+::: {.intro-copy}
+**Working title:** _Making Frontier AI Safety Evaluations Decision-Useful for European Policymakers_
+
+A concise policy brief would examine how public reporting on frontier AI evaluations can better support oversight of models with potential systemic risks. It would explain a specific evidence-to-decision gap, assess relevant European institutional and legal context, and propose a limited number of actionable improvements-with trade-offs and uncertainties made explicit.
+
+A small **evidence matrix** could support the brief by tracing each documented claim to its source, limitations, and policy relevance. The brief - not a software platform or a completed research study - would be the principal proposed output.
+:::
+:::
+
+## Starting references {#references}
+
+- [EU AI Act - Article 55: additional obligations for GPAI models with systemic risk](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-55)
+- [European Commission - When is a general-purpose AI model one with systemic risk?](https://ai-act-service-desk.ec.europa.eu/en/ai-act/faq/when-general-purpose-ai-model-one-systemic-risk)
+- [EU AI Act - consolidated legal text (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2024/1689)
+- [Talos Network - Talos Fellowship](https://www.talosnetwork.org/talos-fellowship) (programme context; no institutional association)
+
+These are starting points, not a claim of exhaustive legal or empirical review.
+
+## About me {#about}
+
+::: {.about-panel}
+::: {.about-portrait}
+<div class="about-photo-placeholder" aria-label="Caio Velasco profile placeholder">CV</div>
+:::
+::: {.about-main}
+**[Caio Velasco](https://caiocvelasco.github.io/)** · Data Science · Economics & Public Policy
+
+I am a Brazilian and Spanish citizen, trained in mechanical engineering at UFRJ and public policy at UCLA, with international experience in data science, applied econometrics, and machine learning. My work has involved evaluating quantitative evidence and communicating technical findings to non-technical stakeholders.
+
+**My policy interest:** applying this evidence-based perspective to **frontier AI safety and European governance**, particularly how institutions interpret technical findings and make accountable decisions under uncertainty. This concept reflects my exploration of a long-term transition into AI policy work.
+:::
+::: {.about-aside}
+<div class="about-small-heading">BACKGROUND & LINKS</div>
+<a href="https://www.linkedin.com/in/caiovelasco/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
+<div class="about-aside-note">Quantitative Analysis · Public Policy · European AI Governance</div>
+:::
+:::
+
+::: {.disclaimer}
+Independent, exploratory policy concept by Caio Velasco. Not a functioning assessment tool, completed study, legal opinion, or official evaluation. Not affiliated with, endorsed by, or submitted on behalf of Talos Network, the EU AI Office, or any other institution. Proposed methods and outputs remain subject to refinement.
+
+© 2026 Caio Velasco.
+:::
