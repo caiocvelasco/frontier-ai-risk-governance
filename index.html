@@ -314,14 +314,13 @@ Identify practical improvements to decision-relevant reporting or scrutiny; dist
 <h2 data-anchor-id="about">About me</h2>
 <div class="about-panel">
 <div class="about-portrait">
-<div class="about-photo-placeholder" aria-label="Caio Velasco profile placeholder">
-CV
-</div>
+<p><img src="images/caio_ucla.JPG" alt="Portrait of Caio Velasco" class="about-photo"></p>
 </div>
 <div class="about-main">
 <p><strong><a href="https://caiocvelasco.github.io/">Caio Velasco</a></strong> · Data Science · Economics &amp; Public Policy</p>
-<p>I am a Brazilian and Spanish citizen, trained in mechanical engineering at UFRJ and public policy at UCLA, with international experience in data science, applied econometrics, and machine learning. My work has involved evaluating quantitative evidence and communicating technical findings to non-technical stakeholders.</p>
-<p><strong>My policy interest:</strong> applying this evidence-based perspective to <strong>frontier AI safety and European governance</strong>, particularly how institutions interpret technical findings and make accountable decisions under uncertainty. This concept reflects my exploration of a long-term transition into AI policy work.</p>
+<p>I am a Brazilian and Spanish citizen with a degree in Mechanical Engineering from UFRJ and a Master of Public Policy from UCLA (Lemann Foundation scholar). I have international experience in data science, applied econometrics, and machine learning, combining quantitative analysis with communicating technical findings to non-technical audiences.</p>
+<p>My academic and professional journey has included scholarships, awards, and opportunities associated with <strong>UCLA, the Lemann Foundation, the General Electric Foundation, Yale University, and the Club of Rome</strong>.</p>
+<p><strong>My policy interest:</strong> Applying my technical and public policy background to <strong>frontier AI safety and European governance</strong>, particularly how institutions evaluate evidence and make decisions under uncertainty. This project reflects my interest in pursuing a long-term career in AI policy.</p>
 </div>
 <div class="about-aside">
 <div class="about-small-heading">
@@ -407,7 +406,7 @@ Quantitative Analysis · Public Policy · European AI Governance
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/caiocvelasco\.github\.io\/frontier-ai-risk-governance\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
